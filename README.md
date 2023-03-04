@@ -10,7 +10,7 @@ A Flutter package that creates a barrier around any widget, no matter where it i
 
 Sometimes we need to highlight or showcase a specific widget, that's an easy task if the widget is a direct child of a Stack, but what if we want to create a barrier around a specific widget, which is inside, for example, a Column. We can try to calculate positions and sizes, but that can get really messy, really fast.
 
-[View demo video](https://user-images.githubusercontent.com/36412259/222872699-232b9f01-7785-45e8-9bae-0a0ebe759300.mp4)
+![View demo video](https://user-images.githubusercontent.com/36412259/222872699-232b9f01-7785-45e8-9bae-0a0ebe759300.mp4)
 
 ## Usage
 
