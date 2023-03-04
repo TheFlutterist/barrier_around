@@ -1,6 +1,6 @@
 name: barrier_around
 description: A Flutter package that creates a completely customizable barrier around any widget, no matter where it is.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/FlutteristDev/barrier_around
 issue_tracker: https://github.com/FlutteristDev/barrier_around/issues
 
