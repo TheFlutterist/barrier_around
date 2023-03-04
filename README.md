@@ -1,3 +1,5 @@
+![barrier_around_header](https://user-images.githubusercontent.com/36412259/222873183-41b81ec4-90bd-4545-8a29-ab76acb5b40a.png)
+
 # Barrier Around
 
 [![pub package](https://img.shields.io/pub/v/barrier_around.svg)](https://pub.dev/packages/barrier_around)
